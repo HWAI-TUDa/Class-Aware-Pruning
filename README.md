@@ -1,7 +1,3 @@
-# Class_Aware_Pruning
-[DATE 2024] Class-Aware Pruning for Efficient Neural Networks
-
-
 # Class-Aware Pruning for Efficient Neural Networks
 This repository includes our code for the paper 'Class-Aware Pruning for Efficient Neural Networks' in DATE 2024.
 It is a novel structured network pruning method aimed at enhancing the efficiency of DNNs. 
